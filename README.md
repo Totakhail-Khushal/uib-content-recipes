@@ -2,7 +2,7 @@
 
 ## Exercise I
 
-- [x] In the `recipes` folder, create a new file with the basic html structure, with the following naming convention `index.html`.
+- [x] In the `recipes` folder, create a new file with the basic html structure - name the file with your github username, such as `Req.html`.
 - [x] Create a meta tag with the name author and your name as the value.
 - [x] Change the title of the page to the name of the recipe.
 
